@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoRest</string>
+    <string name="add_new_user">Neuen User hinzufügen</string>
+    <string name="editUser">Nutzer bearbeiten</string>
+    <string name="save">Speichern</string>
+    <string name="delete_user">Nutzer löschen</string>
+</resources>
